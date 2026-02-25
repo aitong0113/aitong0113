@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Engineer;HealthTech+Builder;React+%7C+Vue+%7C+Node.js;Always+Learning...&center=true&width=420&height=45">
+</p>
+
+<p align="center">
   <samp>
   Hi，我是 Abbie 👋 <br />
   Front-End Engineer｜HealthTech Builder <br />
@@ -8,7 +10,7 @@
   </samp>
 </p>
 
-<br />
+---
 
 ## 🔷 技術專長
 
@@ -32,7 +34,7 @@
 
 ---
 
-### 開發工具與設計協作
+### 開發工具與協作
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -41,16 +43,25 @@
 
 ---
 
-<br />
+## 🔷 Engineering Focus
+
+- 狀態管理與資料流設計（Redux Toolkit / API data normalization）
+- Component Architecture 與可維護性拆分
+- RESTful API 串接與錯誤處理策略
+- 前端效能優化與使用者互動細節設計
+- 模組化設計與可擴展架構規劃
+
+---
 
 ## 🔷 精選專案
 
 ### 【 InnerSoul 心途｜Emotion Tracking & Digital Companion 】
 
 > 結合音樂播放、情緒紀錄與日記書寫的心理科技平台。  
-> 著重狀態管理架構、資料流設計與可預測性，並逐步整合後端與資料庫系統。
+> 著重狀態管理架構、資料流設計與可預測性，逐步整合後端與資料庫系統。
 
 📌 主要技術：React, Redux Toolkit, React Router, SCSS  
+
 🔗 GitHub Repo  
 https://github.com/aitong0113/InnerSoul  
 
@@ -67,12 +78,22 @@ https://aitong0113.github.io/InnerSoul/#/
 
 ---
 
-<br /><br />
+## 🔷 What I’m Building
+
+目前專注於 HealthTech 與心理科技產品開發，  
+探索數位陪伴、情緒追蹤與行為設計的可能性，  
+打造具備長期使用價值與真實影響力的數位產品。
+
+---
 
 ## 🔷 GitHub 活躍度
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=aitong0113&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitong0113&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aitong0113" />
+</p>
 
 ---
 
