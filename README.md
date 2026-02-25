@@ -86,14 +86,6 @@ https://aitong0113.github.io/InnerSoul/#/
 
 ---
 
-## 🔷 GitHub 活躍度
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aitong0113&show_icons=true" />
-</p>
-
----
-
 <p align='center'>
    📫 聯絡我：<a href='mailto:aitong0113@gmail.com'>aitong0113@gmail.com</a>
 </p>
