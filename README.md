@@ -88,11 +88,12 @@ https://aitong0113.github.io/InnerSoul/#/
 
 ## 🔷 GitHub 活躍度
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=aitong0113&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitong0113&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aitong0113" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aitong0113&show_icons=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitong0113&layout=compact" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=aitong0113" />
 </p>
 
 ---
