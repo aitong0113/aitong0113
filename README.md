@@ -1,16 +1,81 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br />
+  <samp>
+  Hi，我是 Abbie 👋 <br />
+  Front-End Engineer｜HealthTech Builder <br />
+  專注於 React、Vue 與現代前端架構，致力打造結合心理健康與科技的數位產品體驗。
+  </samp>
+</p>
 
-<!--
-**aitong0113/aitong0113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+## 🔷 技術專長
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 前端技術
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/ReduxToolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 後端（持續深化中）
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 開發工具與設計協作
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+<br />
+
+## 🔷 精選專案
+
+### 【 InnerSoul 心途｜Emotion Tracking & Digital Companion 】
+
+> 結合音樂播放、情緒紀錄與日記書寫的心理科技平台。  
+> 著重狀態管理架構、資料流設計與可預測性，並逐步整合後端與資料庫系統。
+
+📌 主要技術：React, Redux Toolkit, React Router, SCSS  
+🔗 GitHub Repo  
+https://github.com/aitong0113/InnerSoul  
+
+🔗 Live Demo  
+https://aitong0113.github.io/InnerSoul/#/
+
+---
+
+### 【 React 商品後台管理系統 】
+
+> 實作完整 CRUD 流程、API 串接與權限控管，強化前後端溝通與資料處理能力。
+
+📌 主要技術：React, Axios, RESTful API  
+
+---
+
+<br /><br />
+
+## 🔷 GitHub 活躍度
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=aitong0113&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitong0113&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+
+---
+
+<p align='center'>
+   📫 聯絡我：<a href='mailto:aitong0113@gmail.com'>aitong0113@gmail.com</a>
+</p>
