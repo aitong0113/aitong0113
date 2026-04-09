@@ -7,7 +7,7 @@
   Hi，我是 Abbie 👋 <br />
   Front-End Engineer｜HealthTech Builder <br />
   專注於 React、Vue 與現代前端架構，致力打造結合心理健康與科技的數位產品體驗。
-  ![作品集](https://aitong0113.github.io/portfolio/#/)
+  🔗 作品集: https://aitong0113.github.io/portfolio/#/
   </samp>
 </p>
 
